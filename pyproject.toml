@@ -68,9 +68,9 @@ dependencies = [
 include = ["AloneMusic", "core", "config", "strings"]
 
 [project.urls]
-Repository = "https://github.com/TheAloneTeam/AloneMusic"
-Issues = "https://github.com/TheAloneTeam/AloneMusic/issues"
-Changelog = "https://github.com/TheAloneTeam/AloneMusic/blob/master/CHANGELOG.md"
+Repository = "https://github.com/allentertainmentsstudio/AloneMusic"
+Issues = "https://github.com/allentertainmentsstudio/AloneMusic/issues"
+Changelog = "https://github.com/allentertainmentsstudio/AloneMusic/blob/master/CHANGELOG.md"
 
 [project.scripts]
 alonemusic = "AloneMusic.__main__:main"
