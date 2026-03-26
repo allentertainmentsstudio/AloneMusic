@@ -22,7 +22,7 @@ echo -e "${yellow}Installing system packages...${reset}"
 sudo apt install -y python3 python3-pip python3-venv git ffmpeg libffi-dev libopus0
 
 if [ ! -d "AloneMusic" ]; then
-  git clone https://github.com/TheAloneTeam/AloneMusic.git
+  git clone https://github.com/allentertainmentsstudio/AloneMusic.git
 else
   cd AloneMusic && git pull && cd ..
 fi
